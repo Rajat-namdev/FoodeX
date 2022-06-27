@@ -57,7 +57,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:fontFamily="cursive"
-            android:text="Eat Homemade Anywhere !"
+            android:text="A little slice of heaven !"
             android:textAlignment="center"
             android:textColor="@color/Blacklogo"
             android:textSize="18dp" />
